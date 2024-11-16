@@ -1,0 +1,7 @@
+setup.py
+Formulas.egg-info/PKG-INFO
+Formulas.egg-info/SOURCES.txt
+Formulas.egg-info/dependency_links.txt
+Formulas.egg-info/top_level.txt
+Modulos/__init__.py
+Modulos/usoModulo.py
